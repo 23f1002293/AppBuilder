@@ -1,4 +1,4 @@
-# NovaForge – AI Powered App Builder
+# AI Powered App Builder
 
 NovaForge is a modern application-building platform designed to simplify and accelerate the process of creating web applications. It provides an intuitive interface, reusable components, and intelligent automation to help developers and creators build scalable applications efficiently.
 
